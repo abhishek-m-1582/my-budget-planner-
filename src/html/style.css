@@ -1,0 +1,32 @@
+.background-color {
+  background-color: #c4005b;
+}
+
+.input {
+  width: 220px;
+  padding: 4px 12px;
+  margin: 12px;
+  display: inline-block;
+  border: 2px solid #ce0743;
+  box-sizing: border-box;
+}
+
+.button-space {
+  min-width: 100%;
+  display: inline-flex;
+}
+
+.padding-margin{
+  padding: 4px 12px;
+  margin: 12px;
+}
+
+.link-space {
+  min-width: 100%;
+  display: inline-flex;
+}
+
+.h-500px {
+  min-height: 500px;
+}
+
