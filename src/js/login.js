@@ -6,5 +6,7 @@ const login = function () {
     const password = document.querySelector('#password').value;
     if (userName === defaultUserName && password === defaultPassword) {
         window.location.href = 'string.html';
-    }
+    } else {
+       alert("invalid username or password")
+    }   
 }
