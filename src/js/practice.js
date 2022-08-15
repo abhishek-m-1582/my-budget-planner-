@@ -1,3 +1,4 @@
+console.log('practice.js loaded');
 // create a variable
 var x;
 
@@ -29,4 +30,4 @@ console.log(a / b);
 // get remainder of 15 divided by 9
 console.log(15 % 9);
 // display result of a power 5
-console.log(a^ 5);
+console.log(a ^ 5);
