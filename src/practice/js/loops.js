@@ -16,9 +16,8 @@ let automobileCompanies = ['Alfa Romero', 'BMW', 'Cadillac', 'Dodge', 'Eicher', 
 
 // write a while loop and display all the automobileCompanies
 let count = 0;
-while (count < automobileCompanies.length) {
-    
-    
+while (count < automobileCompanies.length) { 
+    document.write( NodeList+ automobileCompanies + "<br />");
     count++;
 }
 
